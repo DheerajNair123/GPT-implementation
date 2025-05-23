@@ -31,7 +31,7 @@ A minimal implementation of a GPT (Generative Pre-trained Transformer) model bui
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/DheerajNair123/GPT-implementation.git
 cd gpt-implementation
 ```
 
